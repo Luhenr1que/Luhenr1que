@@ -41,7 +41,7 @@ Sou apaixonado por aprender, criar soluções práticas e evoluir constantemente
 ## 📊 Estatísticas
 
 
-<p  >
+<p  align="center">
 <img 
       align="center" 
       alt="GitHub Stats" 
