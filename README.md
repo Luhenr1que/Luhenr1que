@@ -46,6 +46,9 @@ Sou apaixonado por aprender, criar soluções práticas e evoluir constantemente
       align="center" 
       alt="GitHub Stats" 
       height="300"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luhenr1que&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luhenr1que&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Luhenr1que&show_icons=true&theme=tokyonight&hide_title=true"
+/>
 </p>
