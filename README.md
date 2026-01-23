@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👨🏻‍💻 Luis Henrique Araujo
 
-<!--
-**Luhenr1que/Luhenr1que** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Full Stack`**
 
-Here are some ideas to get you started:
+Me chamo Luis Henrique Araujo e sou estudante de tecnologia, com foco em desenvolvimento de software. Concluí o ensino médio técnico e atualmente estou cursando Análise e Desenvolvimento de Sistemas, aprofundando meus conhecimentos em desenvolvimento web e soluções modernas para sistemas digitais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência com tecnologias como Node.js, Laravel, Python e desenvolvimento Web, além de interesse em projetos que unem tecnologia e impacto social. Participei do desenvolvimento do projeto Manual do Imigrante, um aplicativo voltado a auxiliar imigrantes recém-chegados ao Brasil, oferecendo informações sobre documentos, serviços públicos e integração social.
+
+Sou apaixonado por aprender, criar soluções práticas e evoluir constantemente como desenvolvedor, sempre buscando aplicar boas práticas e explorar novas tecnologias no dia a dia.
+
+<p align='left'>
+    <a href=''>
+        <img
+        />
+    </a>
+</p>
+
+## 💻 Linguagens / Frameworks / Web
+
+
+<p align="left"> <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> <img alt="Laravel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /> <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> </p> 
+
+## 🗄️ Bancos de Dados
+
+<p align="left"> <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> <img alt="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /> <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> </p> 
+
+## 🛠️ Ferramentas
+
+<p align="left"> <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> <img alt="Photoshop" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" /> <img alt="Canva" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /> </p>
+
+## 📊 Estatísticas
+
+
+<p align="center" >
+<img 
+      align="center" 
+      alt="GitHub Stats" 
+      height="250"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luhenr1que&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
