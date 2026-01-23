@@ -8,11 +8,21 @@ Tenho experiência com tecnologias como Node.js, Laravel, Python e desenvolvimen
 
 Sou apaixonado por aprender, criar soluções práticas e evoluir constantemente como desenvolvedor, sempre buscando aplicar boas práticas e explorar novas tecnologias no dia a dia.
 
-<p align='left'>
-    <a href=''>
-        <img
-        />
+<p align='center'>
+    <a href='https://www.linkedin.com/in/luis-henrique-araujo-714a9631b/'>
+    <img
+    alt="LinkedIn"
+    title="Meu LinkedIn"
+    src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
     </a>
+      <a href="https://seusite.com">
+        <img
+        alt="Portifolio"
+        title="Portfólio Online"
+        src="https://img.shields.io/badge/Portifólio-6a0dad?style=for-the-badge&logo=google-chrome&logoColor=white"
+        />
+  </a>
 </p>
 
 ## 💻 Linguagens / Frameworks / Web
@@ -35,7 +45,7 @@ Sou apaixonado por aprender, criar soluções práticas e evoluir constantemente
 <img 
       align="center" 
       alt="GitHub Stats" 
-      height="250"
+      height="300"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luhenr1que&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
