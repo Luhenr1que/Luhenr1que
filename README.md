@@ -78,9 +78,10 @@ Sou apaixonado por aprender, criar soluções práticas e evoluir constantemente
 ## 📊 Estatísticas
 
 <p align="center">
-  <img align="center" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luhenr1que&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-  <img align="center" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Luhenr1que&show_icons=true&rank_icon=github&theme=tokyonight&locale=pt-br" />
+  <img align="center" alt="Top Languages" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luhenr1que&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img align="center" alt="GitHub Stats" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Luhenr1que&show_icons=true&rank_icon=github&theme=tokyonight&locale=pt-br" />
 </p>
+
 
 <p align="center">
   <img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Luhenr1que&theme=tokyonight" />
