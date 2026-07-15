@@ -13,54 +13,67 @@ Sou apaixonado por aprender, criar soluções práticas e evoluir constantemente
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-henrique-araujo-714a9631b/">
-    <img alt="LinkedIn" title="Meu LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" title="Meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Luhenr1que">
-    <img alt="GitHub" title="Meu GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="GitHub" title="Meu GitHub" src="https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://portifolio.luhenr1que.com">
-    <img alt="Portfólio" title="Portfólio Online" src="https://img.shields.io/badge/Portfólio-6a0dad?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img alt="Portfólio" title="Portfólio Online" src="https://img.shields.io/badge/Portfólio-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://blog.luhenr1que.com">
-    <img alt="Blog" title="Meu Blog" src="https://img.shields.io/badge/Blog-6a0dad?style=for-the-badge&logo=rss&logoColor=white" />
+    <img alt="Blog" title="Meu Blog" src="https://img.shields.io/badge/Blog-6A0DAD?style=for-the-badge&logo=rss&logoColor=white" />
   </a>
   <a href="mailto:lui.hh.araujo@gmail.com">
-    <img alt="Email" title="Meu Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" title="Meu Email" src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ## 💻 Linguagens / Frameworks / Web
 
-<p align="left">
-  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img alt="Laravel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img alt="Java" src="https://img.shields.io/badge/Java-6A0DAD?style=for-the-badge&logo=openjdk&logoColor=white" /></td>
+    <td align="center"><img alt="Python" src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white" /></td>
+    <td align="center"><img alt="PHP" src="https://img.shields.io/badge/PHP-6A0DAD?style=for-the-badge&logo=php&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-6A0DAD?style=for-the-badge&logo=laravel&logoColor=white" /></td>
+    <td align="center"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-6A0DAD?style=for-the-badge&logo=nodedotjs&logoColor=white" /></td>
+    <td align="center"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-6A0DAD?style=for-the-badge&logo=typescript&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-6A0DAD?style=for-the-badge&logo=html5&logoColor=white" /></td>
+    <td align="center"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-6A0DAD?style=for-the-badge&logo=css3&logoColor=white" /></td>
+    <td align="center"><img alt="React" src="https://img.shields.io/badge/React-6A0DAD?style=for-the-badge&logo=react&logoColor=white" /></td>
+  </tr>
+</table>
 
 ## 🗄️ Bancos de Dados
 
-<p align="left">
-  <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-  <img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-6A0DAD?style=for-the-badge&logo=mysql&logoColor=white" /></td>
+    <td align="center"><img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-6A0DAD?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-6A0DAD?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
+    <td align="center"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-6A0DAD?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
+  </tr>
+</table>
 
 ## 🛠️ Ferramentas
 
-<p align="left">
-  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img alt="Photoshop" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" />
-  <img alt="Canva" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img alt="Git" src="https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white" /></td>
+    <td align="center"><img alt="Docker" src="https://img.shields.io/badge/Docker-6A0DAD?style=for-the-badge&logo=docker&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-6A0DAD?style=for-the-badge&logo=adobephotoshop&logoColor=white" /></td>
+    <td align="center"><img alt="Canva" src="https://img.shields.io/badge/Canva-6A0DAD?style=for-the-badge&logo=canva&logoColor=white" /></td>
+  </tr>
+</table>
 
 ## 📊 Estatísticas
 
@@ -71,8 +84,4 @@ Sou apaixonado por aprender, criar soluções práticas e evoluir constantemente
 
 <p align="center">
   <img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Luhenr1que&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img alt="Visitor Count" src="https://komarev.com/ghpvc/?username=Luhenr1que&color=6a0dad&style=for-the-badge" />
 </p>
